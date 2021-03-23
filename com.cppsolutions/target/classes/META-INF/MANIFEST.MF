@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Inayath
+Build-Jdk: 11.0.10
+Implementation-Title: com.cppsolutions
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: payments
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/com.cppsolutio
+ ns/
+Created-By: Maven Integration for Eclipse
+
